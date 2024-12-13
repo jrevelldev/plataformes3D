@@ -618,7 +618,7 @@ MonoBehaviour:
     m_Value: 0
   OutputChannel: 1
   StandbyUpdate: 2
-  m_StreamingVersion: 20230301
+  m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
     TrackingTarget: {fileID: 0}
@@ -810,6 +810,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Corgi3DPostProcessingVolume
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472295858301350610, guid: ecb34c7ba147ca0428e19c178a3223d1,
+        type: 3}
+      propertyPath: RemapApertureOne
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472295858301350610, guid: ecb34c7ba147ca0428e19c178a3223d1,
+        type: 3}
+      propertyPath: RemapApertureZero
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
